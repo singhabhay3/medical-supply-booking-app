@@ -1,0 +1,15 @@
+{
+  "params":
+  {
+   "local_server": "True",
+    "local_uri": "mysql://root:@localhost/medical",
+    "proud_uri": "mysql://root:@localhost/medical",
+    "gh_url":"https://github.com/singhabhay3",
+    "blog_name": "WELCOME",
+    "headname": "MEDICAL SUPPLY MANAGEMENT",
+    "user": "test",
+    "password": "test",
+    "login_image": "aple.jpg"
+
+  }
+}
